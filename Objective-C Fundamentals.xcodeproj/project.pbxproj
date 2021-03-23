@@ -14,6 +14,7 @@
 		35BA354B260A1B130083B4F2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 35BA354A260A1B130083B4F2 /* Assets.xcassets */; };
 		35BA354E260A1B130083B4F2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 35BA354C260A1B130083B4F2 /* LaunchScreen.storyboard */; };
 		35BA3551260A1B130083B4F2 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 35BA3550260A1B130083B4F2 /* main.m */; };
+		35BA359A260A30490083B4F2 /* MyClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 35BA3599260A30490083B4F2 /* MyClass.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,8 @@
 		35BA354D260A1B130083B4F2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		35BA354F260A1B130083B4F2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		35BA3550260A1B130083B4F2 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		35BA3598260A30490083B4F2 /* MyClass.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyClass.h; sourceTree = "<group>"; };
+		35BA3599260A30490083B4F2 /* MyClass.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MyClass.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +70,8 @@
 				35BA3542260A1B100083B4F2 /* SceneDelegate.m */,
 				35BA3544260A1B100083B4F2 /* ViewController.h */,
 				35BA3545260A1B100083B4F2 /* ViewController.m */,
+				35BA3598260A30490083B4F2 /* MyClass.h */,
+				35BA3599260A30490083B4F2 /* MyClass.m */,
 				35BA3547260A1B100083B4F2 /* Main.storyboard */,
 				35BA354A260A1B130083B4F2 /* Assets.xcassets */,
 				35BA354C260A1B130083B4F2 /* LaunchScreen.storyboard */,
@@ -147,6 +152,7 @@
 			files = (
 				35BA3546260A1B100083B4F2 /* ViewController.m in Sources */,
 				35BA3540260A1B100083B4F2 /* AppDelegate.m in Sources */,
+				35BA359A260A30490083B4F2 /* MyClass.m in Sources */,
 				35BA3551260A1B130083B4F2 /* main.m in Sources */,
 				35BA3543260A1B100083B4F2 /* SceneDelegate.m in Sources */,
 			);

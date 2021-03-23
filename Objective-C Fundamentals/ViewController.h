@@ -7,7 +7,13 @@
 
 #import <UIKit/UIKit.h>
 
+
+
+
 @interface ViewController : UIViewController
+
+//.h is the interface for my class
+// all methods and properties declaration comes here
 
 
 @end
